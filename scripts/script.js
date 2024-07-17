@@ -101,9 +101,3 @@ submitBtn.onclick = () => {
     alert("Registered successfully");
   } 
 };
-
-/*
-รหัส นศ.: 660610784
-
-ชื่อ-สกุล : Phuriphat Yoosuwan
-*/
