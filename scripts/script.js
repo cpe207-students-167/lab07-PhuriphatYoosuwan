@@ -55,8 +55,7 @@ reset_btn.onclick = () =>{
   confirm_passwordInput.classList.remove("is-valid");
   confirm_passwordInput.classList.remove("is-invalid");
 }
-// add callback functions for other input events.
-// (lastname, email, password, confirm password)
+
 
 submitBtn.onclick = () => {
   isFirstNameOk = false;
@@ -103,4 +102,8 @@ submitBtn.onclick = () => {
   } 
 };
 
-// add callback function for Reset button.
+/*
+รหัส นศ.: 660610784
+
+ชื่อ-สกุล : Phuriphat Yoosuwan
+*/
